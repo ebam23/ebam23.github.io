@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+iframe {
+    min-height: 1000px; /* or whatever */
+    max-height: 1000px; /* or whatever */
+}
