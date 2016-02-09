@@ -1,6 +1,6 @@
 name: Eric Baumgarten
 title: Eric Baumgarten Project Portfolio
-description: An online collection of the projects I have worked on in the past.	Q1
+description: An online collection of the projects I have worked on in the past.
 baseline: ""
 url: ""
 markdown: kramdown
@@ -11,10 +11,10 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_name:                    "Eric Baumgarten"
+resume_title:                   "Mechanical Engineer"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "eric.s.baumgarten@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
